@@ -38,8 +38,6 @@ Docker • GitHub Actions • Cloud Computing (AWS/Azure basics) • CI/CD Conce
 ---
 
 ### 📊 GitHub Stats
-
-![Funmilayo's GitHub stats]
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
