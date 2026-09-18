@@ -39,11 +39,9 @@ Docker • GitHub Actions • Cloud Computing (AWS/Azure basics) • CI/CD Conce
 
 ### 📊 GitHub Stats
 
-![Funmilayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodCake21&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goodCake21&layout=compact&theme=tokyonight&hide_border=true)
-
----
+![Funmilayo's GitHub stats]
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ### 📫 Connect with me
 
