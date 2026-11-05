@@ -1,4 +1,4 @@
-### Hi 👋, I'm Funmilayo (Bajomo Oluwafunmilayo Esther)
+### Hi 👋, I'm Oluwafunmilayo (Bajomo Oluwafunmilayo Esther)
 
 **Aspiring DevOps Engineer | Computer Science Graduate**
 
